@@ -1,24 +1,24 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
+- title: Adriana 
+  name: Adriana
+  subtitle: President
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
+- title: Zoey
+  name: Zoey
+  subtitle: Vice President
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
-  subtitle: Position
+- title: Liz
+  name: Liz
+  subtitle: Do-Lots-Of-Things-Er
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
